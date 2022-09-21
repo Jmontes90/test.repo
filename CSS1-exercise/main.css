@@ -1,0 +1,15 @@
+div.card:hover{
+    position: fixed;
+    border-radius: 25px;
+    box-shadow: 3px 3px 1px;
+    padding: 15;
+}
+
+
+
+
+div.text{
+    float: right;
+    text-align: center;
+    
+}
