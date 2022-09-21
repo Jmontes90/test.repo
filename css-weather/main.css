@@ -1,0 +1,29 @@
+h2.main-title{
+    text-transform: uppercase;
+}
+
+h1.town{
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+
+div.left-pannel{
+    float: left;
+}
+
+div.right-pannel{
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+p.temp{
+    margin-bottom: 5px;
+    font-size: 100px;
+    display: inline;
+}
+
+p.feels{
+    font-size: 30px;
+    margin: 20px;
+}
